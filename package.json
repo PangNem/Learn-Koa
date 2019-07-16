@@ -1,0 +1,28 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "Koa.js 연습",
+  "main": "index.js",
+  "dependencies": {
+    "add": "^2.0.6",
+    "koa": "^2.7.0",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-plugin-react": "^7.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuGu99/Learn-Koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuGu99/Learn-Koa/issues"
+  },
+  "homepage": "https://github.com/GuGu99/Learn-Koa#readme"
+}
